@@ -1,7 +1,7 @@
 # Project Development Environment
 
 
--- python -m pip install --upgrade pip
--- pip install fastapi
--- pip install uvicorn[standard]
--- pip install python-multipart
+1. python -m pip install --upgrade pip
+1. pip install fastapi
+1. pip install uvicorn[standard]
+1. pip install python-multipart
